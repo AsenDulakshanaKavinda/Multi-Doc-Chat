@@ -1,0 +1,6 @@
+langchain 
+mistralai 
+tiktoken 
+rapidocr-onnxruntime 
+python-dotenv 
+langchain-community
