@@ -1,4 +1,5 @@
-langchain 
+langchain-mistralai
+langchain
 mistralai 
 tiktoken 
 rapidocr-onnxruntime 
