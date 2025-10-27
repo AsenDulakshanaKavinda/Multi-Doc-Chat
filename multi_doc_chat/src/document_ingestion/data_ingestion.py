@@ -117,7 +117,7 @@ class ChatIngestor:
         except Exception as e:
             log.error(f"Faild to build retriver {e}")
             raise ProjectException(e, sys)
-
+_split
 
 SUPPORTED_EXTENSIONS = {".pdf", ".docx", ".txt"}
 

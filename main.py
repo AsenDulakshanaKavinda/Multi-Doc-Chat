@@ -1,5 +1,10 @@
+import httpx
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+
 def main():
-    print("Hello from multi-doc-chat!")
+
+    print("Everything working fine ✅")
 
 if __name__ == "__main__":
     main()
